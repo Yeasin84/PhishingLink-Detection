@@ -10,11 +10,6 @@ A short video demonstrating the live application and its functionality is availa
 
 * **[Watch the Project Demo on Google Drive](https://drive.google.com/file/d/1z6UvxrRtyi9hmanjZVRCHepFOqCVXO_-/view?usp=sharing)**
 
-### 📸 Screenshot
-
-*(**Note:** You should add a screenshot of your application here. Name it `screenshot.png` and upload it to your repository.)*
-
-![Application Screenshot](screenshot.png)
 
 ## ✨ Key Features
 
