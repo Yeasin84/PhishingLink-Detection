@@ -44,7 +44,8 @@ The application follows a simple data-flow pipeline:
 * **Feature Extraction:** `whois` (for domain info), `httpx` (for HTML content)
 * **Frontend:** HTML, Bootstrap 5
 
-## 📁 Project Structure
+
+```## 📁 Project Structure
  phishing-detection-app/ 
  ├── model/ 
  │ ├── phishingdetection # PyCaret model file 
